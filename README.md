@@ -1,1 +1,1 @@
-Hello, Marina, its me
+Hello, Marina
