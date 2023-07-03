@@ -1,5 +1,8 @@
-Hello, Marina! 
-</br>
+
+Hello, Marina
+</br> 
+https://training.github.com/downloads/ru/github-git-cheat-sheet/
+
 https://foss.kruzhok.org/git
 
 Вложенные файлы:
